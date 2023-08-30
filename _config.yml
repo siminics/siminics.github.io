@@ -21,9 +21,9 @@ title      : Siminics Online Shop
 email      : info@siminics.shop #this is also the email contact forms will go to
 description: "Siminics 2D TOF LiDAR Sensor PAVO2 100Hz 50M Online Shop"
 author     : Siminics Shop
- logo:     #optional, defaults to site title
-  path: #filename.png
-  height: 52 #height in px, defaults to 52px
+  #logo:     #optional, defaults to site title
+  #path: #filename.png
+  #height: 52 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
