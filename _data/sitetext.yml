@@ -11,127 +11,114 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Stable and High Resolution
+    text: Watch TV Everywhere!
+    button: Learn More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Product"
+    text: "Product"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "1080P+H265"
+        desc: "Combine 1080P and H265，Low bandwidth, High resolution, stable watch with no lagging."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Fast and Smooth Switch"
+        desc: "Smart Category, swift response, easy operation, no buffering during switch."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "7 Days Rewind"
+        desc: "Rewind function for all channels, 7 days together with EPG funciton."
+        icon: fab fa-markdown
+      - title: "Large selection of VOD embedded"
+        desc: "40000+ Movies, TV Show, Documentory, Cartoons etc. No ads, no limits, No extra fee"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Multi Platform Supported"
+        desc: "Android，iOS(iPhone & iPad)，Windows PC and Mac OS all supported"
+        icon: fas fa-laptop
+      - title: "7 Days free trial"
+        desc: "We provide 7 days free trial"
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Price"
+    text: "Select The Best Package for you"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Development Milestone"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "First Release"
+        year: "2009-2010"
+        desc: "Special device announced with High Resolution Streaming."
+        image: assets/img/timeline/1.png
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Android apk release"
+        year: "2014"
+        desc: "Supports all kinds of Android Devices"
+        image: assets/img/timeline/2.png
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "iOS app on App Store"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        desc: "iOS app with 7 days rewind function available on App Store for iPhone & iPad"
+        image: assets/img/timeline/3.png
+        alt:
+      - title: "Windows/Mac Supported"
+        year: "2021"
+        desc: "Windows PC msi file and Mac OS dmg package released"
+        image: assets/img/timeline/4.png
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Subscribe <br> to <br> ENJOY!"
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Best Supplier in IPTV Market"
+    body: "399 international live TV channels. Full program guide. 7 days palyback. Compatible with Android/ iOS/ Windows/ Mac system. One account streams on multiple devices!"
     section: about
 
   clients:
+    title: "Download"
+    text: "Click The following Icon to start downloading"
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "Android"
+        url: https://ghproxy.com/https://github.com/hditvapp/hditvapp.github.io/releases/download/v2/HDiTV_V2.apk
+        logo: assets/img/clients/androidlogo.png
+      - title: "iOS"
+        url: https://apps.apple.com/us/app/id1287070962
+        logo: assets/img/clients/ioslogo.png
+      - title: "windows"
+        url: https://cdn3.bluestacks.com/downloads/windows/nxt/5.7.0.1064/064f27221f58418ba143309ca1aa9e34/FullInstaller/x64/BlueStacksFullInstaller_5.7.0.1064_amd64_native.exe?filename=BlueStacksInstaller_5.7.0.1064_native_e0175934c4a0a56f1db683585ffd1bcf.exe
+        logo: assets/img/clients/windowslogo.png
+      - title: "Mac OS"
+        url: https://cdn3.bluestacks.com/downloads/mac/bgp64_mac/4.270.1.2803/c610c2d26a70cad789a74e586a08e51f/x64/BlueStacksInstaller_4.270.1.2803.dmg?filename=BlueStacksInstaller_4.270.1.2803_216830fa8d293e6121a6a5dbb869b2b6.dmg
+        logo: assets/img/clients/macoslogo.png
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Free Trial"
+    text: "Contact us via WeChat to get a free trial"
+    subtext: No upfront fee, Customer satisfaction guaranteed.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "WeChat"
+        role: ""
+        image: assets/img/team/1.jpg
+      - name: "WeChat"
+        role: ""
         image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Send us your request via the following form."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -147,16 +134,18 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://wechat.com
+        icon: "fab fa-weixin"
+      - url: https://line.com
+        icon: "fab fa-line"
+      - url: https://alipay.comm
+        icon: "fab fa-alipay"
+      - url: https://visa.com
+        icon: "fab fa-cc-visa"
+      - url: https://mastercard.com
+        icon: "fab fa-cc-mastercard"
+      - url: https://bitcoin.org
+        icon: "fab fa-bitcoin"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

@@ -11,20 +11,26 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
+    - title: "HOME"
+      url: https://www.siminics.shop
+    - title: "Shop"
+      url: https://www.siminics.shop/#services
+    - title: "Price"
+      url: https://www.siminics.shop/#services
     - title: "About"
-      section: about
+      url: https://www.siminics.shop/#about
     - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
+      url: https://www.siminics.shop/#timeline
+    - title: "clients"
+      url: https://www.siminics.shop/#clients
+    - title: "Download"
+      url: https://www.siminics.shop/#clients
     - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://www.siminics.shop/#contact
+    - title: "FAQ"
+      url: https://www.siminics.shop/channel-list
+    - title: "Blog"
+      url:
 en-US:
   <<: *DEFAULT_EN
 en-CA:
