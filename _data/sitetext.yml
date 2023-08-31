@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Stable and High Resolution
-    text: Watch TV Everywhere!
-    button: Learn More
+    title: Siminics PAVO & PAVO2
+    text: LiDAR Maps Future!
+    button: Shop Now
     buttonlink: "#services"
 
   services:
