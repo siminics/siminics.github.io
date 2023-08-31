@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Products"
-    text: "Products"
+    title: "Features"
+    text: "Advanced Features that our LiDAR products brings."
     section: services
     list:
       - title: "±1cm Precision"
@@ -41,7 +41,7 @@ en: &DEFAULT_EN
         icon: fas fa-umbrella #find more at https://fontawesome.com/icons
 
   portfolio:
-    title: "Price"
+    title: "Products"
     text: "Select The Best Match"
     section: portfolio
     closebutton: "Close"
