@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "±1cm Precision"
         desc: "High precision, ±1cm for short range and ±2cm for full range"
-        icon: fas fa-ruler #find more at https://fontawesome.com/icons
+        icon: fas fa-ruler
       - title: "High Frame Rate"
         desc: "Up to 100Hz(FPS)"
         icon: fas fa-layer-group
@@ -32,7 +32,13 @@ en: &DEFAULT_EN
         icon: fas fa-arrows-left-right
       - title: "360° Detection"
         desc: "360° full coverage"
-        icon: fas fa-arrows-spin #find more at https://fontawesome.com/icons
+        icon: fas fa-arrows-spin
+      - title: "0.8°"
+        desc: "Angular resolution"
+        icon: fas fa-angel
+      - title: "IP65"
+        desc: "Dust and water proof"
+        icon: fas fa-umbrella #find more at https://fontawesome.com/icons
 
   portfolio:
     title: "Price"
