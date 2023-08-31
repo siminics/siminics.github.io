@@ -29,10 +29,10 @@ en: &DEFAULT_EN
         icon: fas fa-layer-group
       - title: "Long Range"
         desc: "Up to 50M ranging distance"
-        icon: fas fa-arrows-left-right
+        icon: fa fa-arrows-h
       - title: "360° Detection"
         desc: "360° full coverage"
-        icon: fas fa-arrows-spin
+        icon: fas fa-undo-alt
       - title: "0.8°"
         desc: "Angular resolution"
         icon: fas fa-angel
