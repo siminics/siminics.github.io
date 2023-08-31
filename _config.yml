@@ -29,6 +29,7 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
+api_key: NjAyMGM4MTYtNTc2MS00NDY2LTk4ZTEtMDhiMWEyOWVkZjViNjM4Mjg4MTAzNzAzMzc1OTc1
 
 collections:
   portfolio:
