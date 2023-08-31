@@ -14,12 +14,12 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://www.siminics.shop" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Siminics Online Shop
 email      : info@siminics.shop #this is also the email contact forms will go to
-description: "Siminics 2D TOF LiDAR Sensor PAVO2 100Hz 50M Online Shop"
+description: "Siminics 2D 360° TOF LiDAR Sensor PAVO2 100Hz 50M Online Shop"
 author     : Siminics Shop
 logo:     #optional, defaults to site title
   path: logo.png
@@ -28,7 +28,7 @@ logo:     #optional, defaults to site title
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-KYW1EGNV2H #Google Analytics tracking code here
 api_key: NjAyMGM4MTYtNTc2MS00NDY2LTk4ZTEtMDhiMWEyOWVkZjViNjM4Mjg4MTAzNzAzMzc1OTc1
 
 collections:

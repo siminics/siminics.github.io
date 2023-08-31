@@ -17,32 +17,26 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Product"
-    text: "Product"
+    title: "Products"
+    text: "Products"
     section: services
     list:
-      - title: "1080P+H265"
-        desc: "Combine 1080P and H265，Low bandwidth, High resolution, stable watch with no lagging."
+      - title: "±1cm Precision"
+        desc: "High precision, ±1cm for short range and ±2cm for full range"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Fast and Smooth Switch"
-        desc: "Smart Category, swift response, easy operation, no buffering during switch."
+      - title: "High Frame Rate"
+        desc: "Up to 100Hz(FPS)"
         icon: fas fa-laptop
-      - title: "7 Days Rewind"
-        desc: "Rewind function for all channels, 7 days together with EPG funciton."
+      - title: "Long Range"
+        desc: "Up to 50M ranging distance"
         icon: fab fa-markdown
-      - title: "Large selection of VOD embedded"
-        desc: "40000+ Movies, TV Show, Documentory, Cartoons etc. No ads, no limits, No extra fee"
+      - title: "360° Detection"
+        desc: "360° full coverage"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Multi Platform Supported"
-        desc: "Android，iOS(iPhone & iPad)，Windows PC and Mac OS all supported"
-        icon: fas fa-laptop
-      - title: "7 Days free trial"
-        desc: "We provide 7 days free trial"
-        icon: fab fa-markdown
 
   portfolio:
     title: "Price"
-    text: "Select The Best Package for you"
+    text: "Select The Best Match"
     section: portfolio
     closebutton: "Close"
 
@@ -53,39 +47,44 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "First Release"
-        year: "2009-2010"
-        desc: "Special device announced with High Resolution Streaming."
+      - title: "Gain ISO9001 Certificate"
+        year: "2020"
+        desc: "Gain AAA credit award aside with tech and robot related awards"
         image: assets/img/timeline/1.png
         alt:
-      - title: "Android apk release"
-        year: "2014"
-        desc: "Supports all kinds of Android Devices"
+      - title: "Awarded Hi-Tech Company Certificate"
+        year: "2019"
+        desc: "Announced Obstacle-Avoidance LiDAR, gain pre-A-round financing"
+        image: assets/img/timeline/1.png
+        alt:
+      - title: "LiDAR Products Launch to Market"
+        year: "2018"
+        desc: "Aside with a series of photon detection products and gain angel-round financing"
         image: assets/img/timeline/2.png
         alt:
-      - title: "iOS app on App Store"
-        year: "2019"
-        desc: "iOS app with 7 days rewind function available on App Store for iPhone & iPad"
+      - title: "LiDAR Project Kick-Off"
+        year: "2017"
+        desc: "Started LiDAR Development and gain seed-round financing"
         image: assets/img/timeline/3.png
         alt:
-      - title: "Windows/Mac Supported"
-        year: "2021"
-        desc: "Windows PC msi file and Mac OS dmg package released"
+      - title: "Founded"
+        year: "2016"
+        desc: "Released First Product"
         image: assets/img/timeline/4.png
         alt:
         # you can enforce the alignment
         align: right
-    end: "Subscribe <br> to <br> ENJOY!"
+    end: "Witness <br> our <br> SUCCESS!"
 
   about:
     title: "About Us"
-    text: "Best Supplier in IPTV Market"
-    body: "399 international live TV channels. Full program guide. 7 days palyback. Compatible with Android/ iOS/ Windows/ Mac system. One account streams on multiple devices!"
+    text: "Providing The Most Competitive LiDAR Products for ALL"
+    body: "Founded in 2016 and focus on technology and product development related to LiDAR. Launched multiple TOF LiDAR products including PAVO and PAVO2, serving a wide range of artificial intelligence clients."
     section: about
 
   clients:
-    title: "Download"
-    text: "Click The following Icon to start downloading"
+    title: "Clients"
+    text: "Proud to get welcomed by our loyal clients."
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -103,18 +102,18 @@ en: &DEFAULT_EN
         url: https://cdn3.bluestacks.com/downloads/mac/bgp64_mac/4.270.1.2803/c610c2d26a70cad789a74e586a08e51f/x64/BlueStacksInstaller_4.270.1.2803.dmg?filename=BlueStacksInstaller_4.270.1.2803_216830fa8d293e6121a6a5dbb869b2b6.dmg
         logo: assets/img/clients/macoslogo.png
 
-  team:
-    title: "Free Trial"
-    text: "Contact us via WeChat to get a free trial"
-    subtext: No upfront fee, Customer satisfaction guaranteed.
-    section: team
-    people:
-      - name: "WeChat"
-        role: ""
-        image: assets/img/team/1.jpg
-      - name: "WeChat"
-        role: ""
-        image: assets/img/team/2.jpg
+#  team:
+#    title: "Free Trial"
+#    text: "Contact us via WeChat to get a free trial"
+#    subtext: No upfront fee, Customer satisfaction guaranteed.
+#    section: team
+#    people:
+#      - name: "WeChat"
+#        role: ""
+#        image: assets/img/team/1.jpg
+#      - name: "WeChat"
+#        role: ""
+#        image: assets/img/team/2.jpg
 
   contact:
     title: "Contact Us"
@@ -136,16 +135,16 @@ en: &DEFAULT_EN
     social:
       - url: https://wechat.com
         icon: "fab fa-weixin"
-      - url: https://line.com
-        icon: "fab fa-line"
+#      - url: https://line.com
+#        icon: "fab fa-line"
       - url: https://alipay.comm
         icon: "fab fa-alipay"
       - url: https://visa.com
         icon: "fab fa-cc-visa"
       - url: https://mastercard.com
         icon: "fab fa-cc-mastercard"
-      - url: https://bitcoin.org
-        icon: "fab fa-bitcoin"
+#      - url: https://bitcoin.org
+#        icon: "fab fa-bitcoin"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
