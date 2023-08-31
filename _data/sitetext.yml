@@ -29,13 +29,13 @@ en: &DEFAULT_EN
         icon: fas fa-layer-group
       - title: "Long Range"
         desc: "Up to 50M ranging distance"
-        icon: fa fa-arrows-h
+        icon: fas fa-arrows-alt-h
       - title: "360° Detection"
         desc: "360° full coverage"
         icon: fas fa-undo-alt
       - title: "0.8°"
         desc: "Angular resolution"
-        icon: fas fa-angel
+        icon: fas fa-angle-left
       - title: "IP65"
         desc: "Dust and water proof"
         icon: fas fa-umbrella #find more at https://fontawesome.com/icons
