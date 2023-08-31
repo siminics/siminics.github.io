@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Siminics PAVO & PAVO2
-    text: LiDAR Maps Future!
+    title: LiDAR Maps Future
+    text: PAVO & PAVO2
     button: Shop Now
     buttonlink: "#services"
 
