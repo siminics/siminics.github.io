@@ -149,7 +149,7 @@ en: &DEFAULT_EN
       - url: https://twitter.com
         icon: "fab fa-twitter"
       - url: https://tiktok.com/@siminics
-        icon: "fab fa-tiktok"
+        icon: "fa-brands fa-tiktok"
       - url: https://youtube.com/@siminics
         icon: "fab fa-youtube"
       - url: https://linkedin.com/company/siminics
