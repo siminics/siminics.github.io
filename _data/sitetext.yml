@@ -144,16 +144,18 @@ en: &DEFAULT_EN
     social:
       - url: https://facebook.com/siminics
         icon: "fab fa-facebook-f"
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
       - url: https://instagram.com
         icon: "fab fa-instagram"
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://tiktok.com/@siminics
+        icon: "fa-brands fa-tiktok"
+      - url: https://youtube.com/@siminics
+        icon: "fab fa-linkedin-in"
       - url: https://linkedin.com/company/siminics
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/siminics
-        icon: "fab fa-github"
-      - url: https://tiktok.com
-        icon: "fab fa-tiktok"
+#      - url: https://github.com/siminics
+#        icon: "fab fa-github"
 #      - url: https://wechat.com
 #        icon: "fab fa-weixin"
 #      - url: https://line.com
