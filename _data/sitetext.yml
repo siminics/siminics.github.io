@@ -152,8 +152,8 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://github.com/siminics
         icon: "fab fa-github"
-      - url: 
-        icon: "fa-brands fa-tiktok"
+      - url: https://tiktok.com
+        icon: "fab fa-tiktok"
 #      - url: https://wechat.com
 #        icon: "fab fa-weixin"
 #      - url: https://line.com
