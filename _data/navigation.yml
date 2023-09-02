@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   nav:
     - title: "HOME"
       url: https://www.siminics.shop
-    - title: "Shop"
+    - title: "Features"
       url: https://www.siminics.shop/#services
-    - title: "Price"
-      url: https://www.siminics.shop/#services
+    - title: "Products"
+      url: https://www.siminics.shop/#portfolio
     - title: "About"
       url: https://www.siminics.shop/#about
     - title: "Timeline"
