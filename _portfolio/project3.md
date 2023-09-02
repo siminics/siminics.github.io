@@ -1,12 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: PAVO2
+subtitle: 2D TOF 360° NAV LiDAR IP67
 image: assets/img/portfolio/03-full.jpg
-alt: 
+alt: 2D TOF 360° NAV LiDAR
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: PAVO2
+  subtitle: 2D TOF 360° NAV LiDAR IP67
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
