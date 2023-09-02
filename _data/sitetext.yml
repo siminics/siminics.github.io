@@ -149,9 +149,9 @@ en: &DEFAULT_EN
       - url: https://twitter.com
         icon: "fab fa-twitter"
       - url: https://tiktok.com/@siminics
-        icon: "fa-brands fa-tiktok"
+        icon: "fab fa-tiktok"
       - url: https://youtube.com/@siminics
-        icon: "fab fa-linkedin-in"
+        icon: "fab fa-youtube"
       - url: https://linkedin.com/company/siminics
         icon: "fab fa-linkedin-in"
 #      - url: https://github.com/siminics
