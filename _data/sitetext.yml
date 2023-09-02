@@ -142,16 +142,28 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://wechat.com
-        icon: "fab fa-weixin"
+      - url: https://facebook.com/siminics
+        icon: "fab fa-facebook-f"
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+      - url: https://linkedin.com/company/siminics
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/siminics
+        icon: "fab fa-github"
+      - url: 
+        icon: "fab fa-tiktok"
+#      - url: https://wechat.com
+#        icon: "fab fa-weixin"
 #      - url: https://line.com
 #        icon: "fab fa-line"
-      - url: https://alipay.comm
-        icon: "fab fa-alipay"
-      - url: https://visa.com
-        icon: "fab fa-cc-visa"
-      - url: https://mastercard.com
-        icon: "fab fa-cc-mastercard"
+#      - url: https://alipay.comm
+#        icon: "fab fa-alipay"
+#      - url: https://visa.com
+#        icon: "fab fa-cc-visa"
+#      - url: https://mastercard.com
+#        icon: "fab fa-cc-mastercard"
 #      - url: https://bitcoin.org
 #        icon: "fab fa-bitcoin"
 en-US:
