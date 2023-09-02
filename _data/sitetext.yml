@@ -93,7 +93,7 @@ en: &DEFAULT_EN
     text: "Proud to get welcomed by our loyal clients."
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes"
     list:
       - title: "CASC"
         url: https://ghproxy.com/https://github.com/hditvapp/hditvapp.github.io/releases/download/v2/HDiTV_V2.apk
@@ -303,16 +303,18 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
+      - url: https://facebook.com/siminics
+        icon: "fab fa-facebook-f"
       - url: https://twitter.com
         icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
+      - url: https://linkedin.com/company/siminics
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/siminics
+        icon: "fab fa-github"
+      - url: 
+        icon: "fab fa-tiktok"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
