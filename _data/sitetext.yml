@@ -96,20 +96,29 @@ en: &DEFAULT_EN
     horizontal-scrolling: "yes"
     list:
       - title: "CASC"
-        url: https://ghproxy.com/https://github.com/hditvapp/hditvapp.github.io/releases/download/v2/HDiTV_V2.apk
-        logo: assets/img/clients/androidlogo.png
-      - title: "SCIC"
-        url: https://apps.apple.com/us/app/id1287070962
-        logo: assets/img/clients/ioslogo.png
+#        url: https://ghproxy.com/https://github.com/hditvapp/hditvapp.github.io/releases/download/v2/HDiTV_V2.apk
+        logo: assets/img/clients/casc.png
+      - title: "CSIC"
+#        url: https://apps.apple.com/us/app/id1287070962
+        logo: assets/img/clients/csic.png
       - title: "CETC"
-        url: https://apps.apple.com/us/app/id1287070962
-        logo: assets/img/clients/ioslogo.png
+#        url: https://apps.apple.com/us/app/id1287070962
+        logo: assets/img/clients/cetc.png
+      - title: "RL Laser"
+#        url: https://cdn3.bluestacks.com/downloads/mac/bgp64_mac/4.270.1.2803/c610c2d26a70cad789a74e586a08e51f/x64/BlueStacksInstaller_4.270.1.2803.dmg?filename=BlueStacksInstaller_4.270.1.2803_216830fa8d293e6121a6a5dbb869b2b6.dmg
+        logo: assets/img/clients/lei.png
+      - title: "Zolix"
+#        url: https://cdn3.bluestacks.com/downloads/mac/bgp64_mac/4.270.1.2803/c610c2d26a70cad789a74e586a08e51f/x64/BlueStacksInstaller_4.270.1.2803.dmg?filename=BlueStacksInstaller_4.270.1.2803_216830fa8d293e6121a6a5dbb869b2b6.dmg
+        logo: assets/img/clients/zolix.png
+      - title: "Tsinghua Uni"
+#        url: https://cdn3.bluestacks.com/downloads/mac/bgp64_mac/4.270.1.2803/c610c2d26a70cad789a74e586a08e51f/x64/BlueStacksInstaller_4.270.1.2803.dmg?filename=BlueStacksInstaller_4.270.1.2803_216830fa8d293e6121a6a5dbb869b2b6.dmg
+        logo: assets/img/clients/tsing.png
       - title: "Peking Uni"
-        url: https://cdn3.bluestacks.com/downloads/windows/nxt/5.7.0.1064/064f27221f58418ba143309ca1aa9e34/FullInstaller/x64/BlueStacksFullInstaller_5.7.0.1064_amd64_native.exe?filename=BlueStacksInstaller_5.7.0.1064_native_e0175934c4a0a56f1db683585ffd1bcf.exe
-        logo: assets/img/clients/windowslogo.png
+#        url: https://cdn3.bluestacks.com/downloads/windows/nxt/5.7.0.1064/064f27221f58418ba143309ca1aa9e34/FullInstaller/x64/BlueStacksFullInstaller_5.7.0.1064_amd64_native.exe?filename=BlueStacksInstaller_5.7.0.1064_native_e0175934c4a0a56f1db683585ffd1bcf.exe
+        logo: assets/img/clients/peking.png
       - title: "Fudan Uni"
-        url: https://cdn3.bluestacks.com/downloads/mac/bgp64_mac/4.270.1.2803/c610c2d26a70cad789a74e586a08e51f/x64/BlueStacksInstaller_4.270.1.2803.dmg?filename=BlueStacksInstaller_4.270.1.2803_216830fa8d293e6121a6a5dbb869b2b6.dmg
-        logo: assets/img/clients/macoslogo.png
+#        url: https://cdn3.bluestacks.com/downloads/mac/bgp64_mac/4.270.1.2803/c610c2d26a70cad789a74e586a08e51f/x64/BlueStacksInstaller_4.270.1.2803.dmg?filename=BlueStacksInstaller_4.270.1.2803_216830fa8d293e6121a6a5dbb869b2b6.dmg
+        logo: assets/img/clients/fudan.png
 
 #  team:
 #    title: "Free Trial"
