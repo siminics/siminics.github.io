@@ -23,14 +23,14 @@ en: &DEFAULT_EN
       url: https://www.siminics.shop/#timeline
     - title: "clients"
       url: https://www.siminics.shop/#clients
-    - title: "Download"
-      url: https://www.siminics.shop/#clients
     - title: "Contact"
       url: https://www.siminics.shop/#contact
+    - title: "Download"
+      url: https://www.siminics.shop/download
     - title: "FAQ"
-      url: https://www.siminics.shop/channel-list
+      url: https://www.siminics.shop/faq
     - title: "Blog"
-      url:
+      url: https://www.siminics.shop/blog
 en-US:
   <<: *DEFAULT_EN
 en-CA:
