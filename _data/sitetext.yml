@@ -157,7 +157,7 @@ en: &DEFAULT_EN
         icon: "fab fa-instagram"
       - url: https://twitter.com
         icon: "fab fa-twitter"
-#      - url: https://tiktok.com/@siminics
+#      - url: https://www.tiktok.com/@siminics
 #        icon: "fa-brands fa-tiktok"
       - url: https://youtube.com/@siminics
         icon: "fab fa-youtube"
