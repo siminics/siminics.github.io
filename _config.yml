@@ -32,7 +32,7 @@ analytics:
 api_key: NjAyMGM4MTYtNTc2MS00NDY2LTk4ZTEtMDhiMWEyOWVkZjViNjM4Mjg4MTAzNzAzMzc1OTc1
 
 collections:
-  - products
+  products:
   portfolio:
 
 markdown: kramdown
