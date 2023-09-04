@@ -14,9 +14,8 @@ title: Download Center
     2. <a href="https://download.siminics.shop/Aries-Model-Dimensions(3D).zip">Aries-Model-Dimensions(3D).zip</a><br>
     3. <a href="https://download.siminics.shop/Aries-Typical-Connection.pdf">Aries-Typical-Connection.pdf</a><br>
     4. <a href="https://download.siminics.shop/AriesSoftware_2023V2.zip">AriesSoftware_2023V2.zip</a><br>
-    5. <a href="https://download.siminics.shop/Ob-Avoi-Aries-Product-Manual-V1.1.5.pdf">Ob-Avoi-Aries-Product-Manual-V1.1.5.pdf</a>
+    5. <a href="https://download.siminics.shop/Ob-Avoi-Aries-Product-Manual-V1.1.5.pdf">Ob-Avoi-Aries-Product-Manual-V1.1.5.pdf</a><br>
 </div>
-<br>
 <div class="col-lg-6 text-center">
 	<h4 class="section-heading text-uppercase">PAVO & PAVO2 TOF LiDAR</h4>
 </div>
