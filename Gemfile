@@ -7,7 +7,6 @@ gem "jekyll-remote-theme"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-sitemap"
-  gem 'jekyll-seo-tag'
   # gem "github-pages" # https://github.com/github/pages-gem
 end
 
