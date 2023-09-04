@@ -16,6 +16,7 @@ title: Download Center
     4. <a href="https://download.siminics.shop/AriesSoftware_2023V2.zip">AriesSoftware_2023V2.zip</a><br>
     5. <a href="https://download.siminics.shop/Ob-Avoi-Aries-Product-Manual-V1.1.5.pdf">Ob-Avoi-Aries-Product-Manual-V1.1.5.pdf</a>
 </div>
+<br>
 <div class="col-lg-6 text-center">
 	<h4 class="section-heading text-uppercase">PAVO & PAVO2 TOF LiDAR</h4>
 </div>
