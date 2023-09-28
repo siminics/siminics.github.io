@@ -9,10 +9,16 @@ caption:
   subtitle: 2D TOF 360° NAV LiDAR IP67
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+![Introduction](assets/img/pavo2/pavo2intro.png)
+![Parameters](assets/img/pavo2/pavo2para.png)
+![PointCloud](assets/img/pavo2/pavo2cloud.png)
+![Applications](assets/img/pavo2/pavo2appli.png)
+![Certifications](assets/img/pavo/certification.png)
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
-
+- Facebook: https://facebook.com/siminics
+- Instagram: https://instagram.com/siminics_shop
+- Twitter: https://twitter.com/siminics_shop
+- Linkedin: https://linkedin.com/company/siminics
+- Youtube: https://youtube.com/@siminics
+- Tiktok: https://tiktok.com/siminics
