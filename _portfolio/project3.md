@@ -16,9 +16,9 @@ caption:
 ![Certifications](assets/img/pavo/certification.png)
 
 {:.list-inline}
-- Facebook: https://facebook.com/siminics
-- Instagram: https://instagram.com/siminics_shop
-- Twitter: https://twitter.com/siminics_shop
-- Linkedin: https://linkedin.com/company/siminics
-- Youtube: https://youtube.com/@siminics
-- Tiktok: https://tiktok.com/siminics
+- Facebook: [Facebook](https://facebook.com/siminics)
+- Instagram: [Instagram](https://instagram.com/siminics_shop)
+- Twitter: [Twitter](https://twitter.com/siminics_shop)
+- Linkedin: [Linkedin](https://linkedin.com/company/siminics)
+- Youtube: [Youtube](https://youtube.com/@siminics)
+- Tiktok: [Tiktok](https://tiktok.com/siminics)
