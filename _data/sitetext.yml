@@ -45,6 +45,7 @@ en: &DEFAULT_EN
     text: "Select The Best Match"
     section: portfolio
     closebutton: "Close"
+    buybutton: "Buy"
 
   timeline:
     title: "Timeline"
