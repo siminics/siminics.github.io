@@ -1,7 +1,14 @@
 ---
-layout: shop
+layout: default
 title: test shop
 ---
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
-</div>
+
+<body>
+  <main class="main">
+    <div class="products">
+      {{ content }}
+    </div>
+  </main>
+  <div hidden id="snipcart" data-api-key="MzMxN2Y0ODMtOWNhMy00YzUzLWFiNTYtZjMwZTRkZDcxYzM4"></div>
+  <script src="https://cdn.snipcart.com/themes/v3.0/default/snipcart.js" defer></script>
+</body>
