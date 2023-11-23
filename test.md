@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: test shop
 ---
 
@@ -12,3 +12,5 @@ title: test shop
   <div hidden id="snipcart" data-api-key="MzMxN2Y0ODMtOWNhMy00YzUzLWFiNTYtZjMwZTRkZDcxYzM4"></div>
   <script src="https://cdn.snipcart.com/themes/v3.0/default/snipcart.js" defer></script>
 </body>
+{% include product-definition.html %}
+{% include product.html %}
