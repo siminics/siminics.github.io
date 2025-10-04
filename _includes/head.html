@@ -12,8 +12,9 @@
     gtag("config", "{{ site.analytics.google }}");
   </script>
   <!-- End Google Analytics -->
+<!--
   <div id="fb-root"></div>
-  <!-- Your Chat Plugin code -->
+
   <div id="fb-customer-chat" class="fb-customerchat">
   </div>
   <script>
@@ -21,7 +22,6 @@
     chatbox.setAttribute("page_id", "126564463864519");
     chatbox.setAttribute("attribution", "biz_inbox");
   </script>
-  <!-- Your SDK code -->
   <script>
     window.fbAsyncInit = function() {
       FB.init({
@@ -36,7 +36,7 @@
       js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
-  </script>
+  </script> -->
   {% endif %}
 
   <meta charset="utf-8">
