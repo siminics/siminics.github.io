@@ -26,7 +26,11 @@
                 src="{{ project.image }}"
                 alt="{{ project.alt }}"
               />
-              <p>{{ project.content | replace: '<img', '<img class="img-fluid d-block w-100 mb-4"' }}</p>
+                <div class="container-fluid px-0">
+                {% assign fixed_content = project.content | replace: '<img ', '<img class="img-fluid w-100 mb-4" ' %}
+                {{ fixed_content }}
+                </div>
+<!--              <p>{{ project.content | replace: '<img', '<img class="img-fluid d-block w-100 mb-4"' }}</p> -->
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
