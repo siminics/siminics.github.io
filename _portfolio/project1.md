@@ -9,13 +9,15 @@ caption:
   subtitle: 2D 270° TOF Obstacle Avoidance LiDAR 
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-<center>![Introduction](assets/img/aries/ariesintro.png)</center>
-<center>![Features](assets/img/aries/ariesfeature.png)</center>
-<center>![Parameter](assets/img/aries/ariesfeature.png)</center>
-<center>![Dimensions](assets/img/aries/ariesdimensions.png)</center>
-<center>![PointCloud](assets/img/aries/ariespoint.jpg)</center>
-<center>![Applications](assets/img/aries/ariesapplications.jpg)</center>
-<center>![Certifications](assets/img/pavo/certification.png)</center>
+<div align="center">
+![Introduction](assets/img/aries/ariesintro.png)
+![Features](assets/img/aries/ariesfeature.png)
+![Parameter](assets/img/aries/ariesfeature.png)
+![Dimensions](assets/img/aries/ariesdimensions.png)
+![PointCloud](assets/img/aries/ariespoint.jpg)
+![Applications](assets/img/aries/ariesapplications.jpg)
+![Certifications](assets/img/pavo/certification.png)
+</div>
 
 {:.list-inline}
 - Facebook: [Facebook](https://facebook.com/siminics)
