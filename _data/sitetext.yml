@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: LiDAR Maps Future
     text: PAVO & PAVO2
     button: Shop Now
-    buttonlink: "#services"
+    buttonlink: https://www.siminics.hk/shop
 
   services:
     title: "Features"
@@ -156,7 +156,7 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://instagram.com/siminics_shop
         icon: "fab fa-instagram"
-      - url: https://twitter.com
+      - url: https://x.com/siminics_shop
         icon: "fab fa-twitter"
 #      - url: https://www.tiktok.com/@siminics
 #        icon: "fa-brands fa-tiktok"
