@@ -9,7 +9,7 @@ caption:
   subtitle: 2D 270° TOF Obstacle Avoidance LiDAR 
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-<div align="center">
+<div style="text-align: center;">
 ![Introduction](assets/img/aries/ariesintro.png)
 ![Features](assets/img/aries/ariesfeature.png)
 ![Parameter](assets/img/aries/ariesfeature.png)
