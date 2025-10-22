@@ -18,7 +18,7 @@ caption:
 {:.list-inline}
 - Facebook: [Facebook](https://facebook.com/siminics)
 - Instagram: [Instagram](https://instagram.com/siminics_shop)
-- Twitter: [Twitter](https://twitter.com/siminics_shop)
+- Twitter: [Twitter](https://x.com/siminics_shop)
 - Linkedin: [Linkedin](https://linkedin.com/company/siminics)
 - Youtube: [Youtube](https://youtube.com/@siminics)
 - Tiktok: [Tiktok](https://tiktok.com/siminics)
