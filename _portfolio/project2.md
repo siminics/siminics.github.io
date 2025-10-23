@@ -3,6 +3,7 @@ title: PAVO
 subtitle: 2D 270° TOF Nav LiDAR IP67
 image: assets/img/portfolio/02-full.jpg
 alt: 2D 270° TOF Nav LiDAR
+buy_link: https://www.siminics.hk/product-category/pavo/
 
 caption:
   title: PAVO
