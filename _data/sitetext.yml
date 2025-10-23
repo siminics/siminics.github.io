@@ -46,6 +46,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close"
     buybutton: "Buy"
+    buy_default_link: "https://www.siminics.hk/shop"
 
   timeline:
     title: "Timeline"

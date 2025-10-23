@@ -3,6 +3,7 @@ title: ARIES
 subtitle: 2D 270° TOF Obstacle Avoidance LiDAR 
 image: assets/img/portfolio/01-full.jpg
 alt: 2D 270° TOF Obstacle Avoidance LiDAR 
+buy_link: https://www.siminics.hk/product-category/aries/
 
 caption:
   title: ARIES
