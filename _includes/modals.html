@@ -38,8 +38,8 @@
               </button>
               <button
                 class="btn btn-primary"
-                data-dismiss="modal"
                 type="button"
+                onclick="window.open('{{ project.buy_link | default: 'https://www.siminics.hk/shop' | uri_escape }}', '_blank')"
               >
                 <i class="fas fa-cart"></i>
                 {{ site.data.sitetext[site.locale].portfolio.buybutton |
