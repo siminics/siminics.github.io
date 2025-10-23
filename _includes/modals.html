@@ -36,11 +36,10 @@
                 {{ site.data.sitetext[site.locale].portfolio.closebutton |
                 default: "Close" }}
               </button>
-              <a
-                href="{{ project.buy_link | default: 'https://www.siminics.hk/shop' }}"
+              <button
                 class="btn btn-primary"
-                target="_blank"
-                rel="noopener"
+                data-dismiss="modal"
+                type="button"
               >
                 <i class="fas fa-cart"></i>
                 {{ site.data.sitetext[site.locale].portfolio.buybutton |
