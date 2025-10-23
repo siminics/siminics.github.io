@@ -26,7 +26,7 @@
                 src="{{ project.image }}"
                 alt="{{ project.alt }}"
               />
-#               <p>{{ project.content | replace: '<img', '<img class="img-fluid d-block mx-auto mb-4"' }}</p>
+              <p>{{ project.content | replace: '<img', '<img class="img-fluid d-block mx-auto mb-4"' }}</p>
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
@@ -36,11 +36,9 @@
                 {{ site.data.sitetext[site.locale].portfolio.closebutton |
                 default: "Close" }}
               </button>
-              <button
+              <a
+                href="{{ project.buy_link | default: 'https://www.siminics.hk/shop' }}"
                 class="btn btn-primary"
-                data-dismiss="modal"
-                type="button"
-                href="{{ project.buy_link | default: site.data.sitetext[site.locale].portfolio.buy_default_link | default: 'https://www.siminics.hk/shop' }}"
                 target="_blank"
                 rel="noopener"
               >
