@@ -36,8 +36,10 @@
                 {{ site.data.sitetext[site.locale].portfolio.closebutton |
                 default: "Close" }}
               </button>
-              <a
+              <button
                 class="btn btn-primary"
+                data-dismiss="modal"
+                type="button"
                 href="{{ project.buy_link | default: site.data.sitetext[site.locale].portfolio.buy_default_link | default: 'https://www.siminics.hk/shop' }}"
                 target="_blank"
                 rel="noopener"
